@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlhuacles
 - 👀 I'm interested in Web Development and Backend Development with Javascript.
-- 🌱 I’m currently learning React.js and Angular.
+- 🌱 I’m currently working with web scraping.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me: joseluishuaclesunocc@gmail.com
 
